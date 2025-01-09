@@ -46,6 +46,3 @@ The application generates log files to record execution details and activities. 
    ```
    This will generate the Allure report and open it in your default web browser.
 
-## Notes
-- Ensure that the test results are stored in the `bin\Debug\net6.0\allure-results` directory.
-- For additional configurations or advanced options, refer to the official documentation for [NUnit](https://nunit.org/) and [Allure](https://docs.qameta.io/allure/).
